@@ -16,4 +16,7 @@ This repository contains my learning projects as I prepare for a junior data ana
 - Used SQL joins and filters
 - Created summary metrics in Power BI
 
+## Power BI Training Analysis – Preview
+
+![Power BI Preview](powerbi_preview.png)
 (More projects coming)
