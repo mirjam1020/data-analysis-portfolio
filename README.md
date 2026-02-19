@@ -26,6 +26,7 @@ I am currently building my skills as an aspiring Junior Data Analyst and continu
 - Applied structured error handling
 
 ![SSIS Preview](ssis_etl_flow.png)
+*SSIS ETL pipeline with data validation and Conditional Split logic*
  
 
 ### 🔹 Survey Data Analysis Project
