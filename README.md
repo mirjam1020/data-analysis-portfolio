@@ -27,8 +27,11 @@ I am currently building my skills as an aspiring Junior Data Analyst and continu
 
 ![SSIS Preview](ssis_etl_flow.png)
 
-*SSIS ETL pipeline with data validation and Conditional Split logic*
- 
+<p align="center">
+  <img src="ssis_etl_pipeline.png" width="700"/>
+</p>
+
+<p align="center"><i>SSIS ETL pipeline with data validation and Conditional Split logic</i></p> 
 
 ### 🔹 Survey Data Analysis Project
 - Designed and analyzed a survey
