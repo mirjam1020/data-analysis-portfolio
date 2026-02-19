@@ -25,13 +25,13 @@ I am currently building my skills as an aspiring Junior Data Analyst and continu
 - Separated good, insufficient, and bad records
 - Applied structured error handling
 
-![SSIS Preview](ssis_etl_flow.png)
-
 <p align="center">
-  <img src="ssis_etl_flow.png" width="750"/>
-</p>
 
-<p align="center"><i>SSIS ETL pipeline with data validation and Conditional Split logic</i></p>
+![SSIS ETL Pipeline](ssis_etl_flow.png)
+
+<i>SSIS ETL pipeline with data validation and Conditional Split logic</i>
+
+</p>
 
 ### 🔹 Survey Data Analysis Project
 - Designed and analyzed a survey
