@@ -25,8 +25,11 @@ I am currently building my skills as an aspiring Junior Data Analyst and continu
 - Separated good, insufficient, and bad records
 - Applied structured error handling
 
+![SSIS Preview](ssis_etl_flow.png)
+ 
+
 ### 🔹 Survey Data Analysis Project
-- Designed and analyzed a survey on learning styles and work habits
+- Designed and analyzed a survey
 - Performed correlation analysis and created histograms in Excel
 - Built Power BI dashboards and presented insights
 
