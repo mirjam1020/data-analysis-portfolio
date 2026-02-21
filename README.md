@@ -50,6 +50,8 @@ New projects and files will be added regularly as I continue learning and improv
 
 ![Power BI Preview](powerbi_preview.png)
 
+<i>Koolitused Mirjam.pbix</i>
+
 ---
 
 ## 📬 Contact
