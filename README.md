@@ -29,7 +29,7 @@ I am currently building my skills as an aspiring Junior Data Analyst and continu
 
 ![SSIS ETL Pipeline](ssis_etl_flow.png)
 
-<i>SSIS ETL pipeline with data validation and Conditional Split logic</i>
+<i>SSIS ETL pipeline with data validation and Conditional Split logic (FakeNames_SQL_Project)</i>
 
 </p>
 
