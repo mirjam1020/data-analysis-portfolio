@@ -53,11 +53,10 @@ The analysis aims to identify:
 
 ## 🚀 Next Steps
 
-Future expansion of this project may include:
+Future expansion of this project includes:
 
-* Power BI dashboard visualization
-* Geographic accessibility analysis
-* Deeper segmentation of pharmacy market behavior
-* Business recommendations based on trends
+- Power BI dashboard with clear visualizations  
+- Written insights explaining key trends and market implications  
+- Business-focused interpretation of findings
 
 ---
