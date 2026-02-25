@@ -1,59 +1,47 @@
 # 📊 Data Analysis Portfolio — Mirjam Riivald
 
-Welcome to my data analytics portfolio.  
-This repository documents my learning journey and practical projects in SQL, Excel, Power BI, and ETL.
+Welcome to my data analytics portfolio.
 
-I am currently building my skills as an aspiring Junior Data Analyst and continuously adding new projects.
+This repository showcases my practical work in **SQL-based data analysis**, where I explore real-world style business questions and transform raw datasets into meaningful insights.
+
+I am currently developing my skills as an aspiring **Junior Data Analyst**, focusing on analytical thinking, clean query structure, and trend interpretation.
 
 ---
 
 ## 🛠 Skills
 
-- SQL & database fundamentals
-- Excel data analysis (correlation, histograms, data cleaning)
-- Power Query & Power BI visualization
-- ETL basics (SSIS)
-- Data quality validation
+* SQL & relational database fundamentals
+* Data aggregation and trend analysis
+* Window functions and analytical querying
+* Business-focused problem solving
+* Data exploration and insight generation
 
 ---
 
-## 📂 Projects
+## 📂 Project
 
-### 🔹 ETL Data Validation Project (SSIS)
-- Built an ETL pipeline importing CSV data into SQL Server
-- Implemented Conditional Split for data quality validation
-- Separated good, insufficient, and bad records
-- Applied structured error handling
+### 🔹 Pharmacy Market Trend Analysis (SQL)
 
-<p align="center">
+This project analyzes pharmacy market dynamics using structured SQL queries and business-driven analytical questions.
 
-![SSIS ETL Pipeline](ssis_etl_flow.png)
+**Key questions explored:**
 
-<i>SSIS ETL pipeline with data validation and Conditional Split logic (FakeNames_SQL_Project)</i>
+* Trends in pharmacy openings and closures over time
+* Whether closures disproportionately affect certain pharmacy sizes
+* Implications for healthcare accessibility
+* Relationship between distance sellers and physical pharmacies
 
-</p>
-
-### 🔹 Survey Data Analysis Project
-- Designed and analyzed a survey
-- Performed correlation analysis and created histograms in Excel
-- Built Power BI dashboards and presented insights
+The project includes both the dataset and analytical SQL queries.
 
 ---
 
 ## 🚧 Work in Progress
 
-New projects and files will be added regularly as I continue learning and improving my data analytics skills.
-
----
-
-## Power BI Training Analysis – Preview
-
-![Power BI Preview](powerbi_preview.png)
-
-<i>Koolitused Mirjam.pbix</i>
+This portfolio will continue expanding with additional SQL analyses, Power BI dashboards, and ETL projects as I progress in my data analytics journey.
 
 ---
 
 ## 📬 Contact
 
-LinkedIn: www.linkedin.com/in/mirjam-riivald-033a3a266  
+[LinkedIn — Mirjam Riivald](https://www.linkedin.com/in/mirjam-riivald-033a3a266)
+
