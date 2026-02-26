@@ -35,6 +35,22 @@ The project includes both the dataset and analytical SQL queries.
 
 ---
 
+### 🔹 Course Analytics Dashboard (Power BI)
+
+An interactive Power BI dashboard analyzing course participation, revenue distribution, trainer workload, and geographic patterns.
+
+The project demonstrates data modeling, KPI design, and business insight generation using structured relational datasets.
+
+📸 **Preview**
+
+![Dashboard Overview](Training_Dashboard_PowerBI/Images/Overview.png)
+
+➡️ **View project:**
+[Course Analytics Dashboard](Training_Dashboard_PowerBI)
+
+
+---
+
 ## 🚧 Work in Progress
 
 This portfolio will continue expanding with additional SQL analyses, Power BI dashboards, and ETL projects as I progress in my data analytics journey.
