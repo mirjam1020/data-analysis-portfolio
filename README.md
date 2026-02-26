@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio — Mirjam Riivald
+# Data Analysis Portfolio — Mirjam Riivald
 
 Welcome to my data analytics portfolio.
 
@@ -8,7 +8,7 @@ I am currently developing my skills as an aspiring **Junior Data Analyst**, focu
 
 ---
 
-## 🛠 Skills
+## Skills
 
 * SQL & relational database fundamentals
 * Data aggregation and trend analysis
@@ -18,7 +18,7 @@ I am currently developing my skills as an aspiring **Junior Data Analyst**, focu
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🔹 Pharmacy Market Trend Analysis (SQL)
 
@@ -45,19 +45,19 @@ The project demonstrates data modeling, KPI design, and business insight generat
 
 ![Dashboard Overview](Training_Dashboard_PowerBI/Images/Overview.png)
 
-➡️ **View project:**
+**View project:**
 [Course Analytics Dashboard](Training_Dashboard_PowerBI)
 
 
 ---
 
-## 🚧 Work in Progress
+## Work in Progress
 
 This portfolio will continue expanding with additional SQL analyses, Power BI dashboards, and ETL projects as I progress in my data analytics journey.
 
 ---
 
-## 📬 Contact
+## Contact
 
 [LinkedIn — Mirjam Riivald](https://www.linkedin.com/in/mirjam-riivald-033a3a266)
 
