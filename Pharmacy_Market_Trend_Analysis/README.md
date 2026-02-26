@@ -1,6 +1,6 @@
-# 💊 Pharmacy Market Trend Analysis (SQL)
+# Pharmacy Market Trend Analysis (SQL)
 
-## 📌 Project Overview
+## Project Overview
 
 This project explores pharmacy market dynamics using structured SQL analysis.
 
@@ -10,7 +10,7 @@ The analysis focuses on operational trends, business impact, and structural shif
 
 ---
 
-## ❓ Business Questions
+## Business Questions
 
 * How are pharmacy openings and closures evolving over time?
 * Are closures disproportionately affecting certain pharmacy sizes?
@@ -19,7 +19,7 @@ The analysis focuses on operational trends, business impact, and structural shif
 
 ---
 
-## 🧰 Tools & Techniques
+## Tools & Techniques
 
 * Microsoft SQL Server
 * Aggregations and grouped analysis
@@ -29,7 +29,7 @@ The analysis focuses on operational trends, business impact, and structural shif
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains monthly pharmacy activity, including:
 
@@ -40,7 +40,7 @@ The dataset contains monthly pharmacy activity, including:
 
 ---
 
-## 📈 Analytical Focus
+## Analytical Focus
 
 The analysis aims to identify:
 
@@ -51,7 +51,7 @@ The analysis aims to identify:
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 Future expansion of this project includes:
 
