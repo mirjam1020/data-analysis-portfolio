@@ -1,10 +1,10 @@
-# 📊 Course Analytics Dashboard
+# Course Analytics Dashboard
 
 This project showcases a Power BI dashboard analyzing **course participation, revenue, and trainer activity**.
 
 The dashboard highlights key trends and patterns to support **data-driven decision making**, helping identify high-performing course categories, trainer workload distribution, and geographic concentration of courses.
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Overview
 
@@ -22,7 +22,7 @@ The dashboard highlights key trends and patterns to support **data-driven decisi
 
 ![Trainer Workload](Images/Trainer_workload.png)
 
-## 💡 Key Insights
+## Key Insights
 
 * Classroom-based courses generate significantly higher revenue compared to e-learning courses.
 * Trainers Rebane, Karu, and Nugis deliver the highest number of courses, indicating a strong concentration of teaching activity.
@@ -30,7 +30,7 @@ The dashboard highlights key trends and patterns to support **data-driven decisi
 * Tallinn hosts the majority of courses, highlighting a strong geographic concentration.
 * IT and computer-related courses generate the highest overall revenue.
 
-## 📈 Business Implications
+## Business Implications
 
 * Higher revenue from classroom-based courses may indicate stronger market demand or the ability to charge premium pricing for in-person delivery.
 * The concentration of courses among a few trainers may suggest potential trainer dependency and capacity risk.
