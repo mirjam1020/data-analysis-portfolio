@@ -8,15 +8,15 @@ The dashboard highlights key trends and patterns to support **data-driven decisi
 
 ### Overview
 
-![Overview](Images/Dashboard_overview.png)
+![Overview](Images/Overview.png)
 
-### Course Analytics
+### Course Statistics
 
-![Course Analytics](Images/Course_analytics.png)
+![Course Statistics](Images/Course_statistics.png)
 
 ### Participant Analytics
 
-![Participant Analytics](Images/Participant_analytics.png)
+![Participant Statistics](Images/Participant_statistics.png)
 
 ### Trainer Workload
 
