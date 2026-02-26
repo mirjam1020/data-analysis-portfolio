@@ -18,7 +18,7 @@ I am currently developing my skills as an aspiring **Junior Data Analyst**, focu
 
 ---
 
-## 📂 Project
+## 📂 Projects
 
 ### 🔹 Pharmacy Market Trend Analysis (SQL)
 
