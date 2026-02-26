@@ -34,5 +34,5 @@ The dashboard highlights key trends and patterns to support **data-driven decisi
 
 * Higher revenue from classroom-based courses may indicate stronger market demand or the ability to charge premium pricing for in-person delivery.
 * The concentration of courses among a few trainers may suggest potential trainer dependency and capacity risk.
-* The strong geographic focus in Tallinn may highlight opportunities for expansion into other regions.
+* The strong geographic focus in Tallinn may highlight opportunities for expansion.
 
