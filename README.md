@@ -41,7 +41,7 @@ An interactive Power BI dashboard analyzing course participation, revenue distri
 
 The project demonstrates data modeling, KPI design, and business insight generation using structured relational datasets.
 
-📸 **Preview**
+**Preview**
 
 ![Dashboard Overview](Training_Dashboard_PowerBI/Images/Overview.png)
 
