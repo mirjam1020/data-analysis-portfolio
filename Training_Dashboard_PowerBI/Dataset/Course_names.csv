@@ -1,0 +1,22 @@
+﻿ID,Koolituse nimi,Tunnihind (klass),Tunnihind (e-õpe),Koolitusvaldkond ID
+1,Excel,30,24,1
+2,Word,27,24,1
+3,Power BI,36,30,1
+4,Outlook,24,21,1
+5,Aastaaruande koostamine,30,21,2
+6,Investeeringud,33,33,2
+7,Raamatupidamine,30,30,2
+8,Palga arvestus,27,27,2
+9,Eesti keel,18,18,3
+10,Vene keel,18,18,3
+11,Inglise keel,18,18,3
+12,Saksa keel,18,18,3
+13,Soome keel,18,18,3
+14,Adobe Photoshop,36,30,1
+15,Müügikoolitus,24,24,2
+16,Eelarvesüsteem,24,24,2
+17,Arvutivõrgud,45,39,1
+18,Personalitöö,27,24,4
+19,Strateegiaseminar,18,18,4
+20,Projektijuhtimine,27,21,4
+21,MS Project,36,30,1
