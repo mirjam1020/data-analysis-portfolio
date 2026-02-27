@@ -58,7 +58,7 @@ The project demonstrates KPI design, HR data storytelling, and dashboard develop
 
 **Preview**
 
-![Dashboard Overview](hr-analytics-dashboard/Images/HR_Analysis.png)
+![Dashboard Overview](HR-Analytics-Dashboard/Images/HR_Analysis.png)
 
 **View project:**  
 [HR Analytics Dashboard](hr-analytics-dashboard)
