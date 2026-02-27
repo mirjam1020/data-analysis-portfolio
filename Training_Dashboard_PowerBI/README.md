@@ -14,7 +14,7 @@ The dashboard highlights key trends and patterns to support **data-driven decisi
 
 ![Course Statistics](Images/Course_statistics.png)
 
-### Participant Analytics
+### Participant Statistics
 
 ![Participant Statistics](Images/Participant_statistics.png)
 
