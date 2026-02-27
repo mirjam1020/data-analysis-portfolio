@@ -48,6 +48,21 @@ The project demonstrates data modeling, KPI design, and business insight generat
 **View project:**
 [Course Analytics Dashboard](Training_Dashboard_PowerBI)
 
+---
+
+### 🔹 HR Analytics Dashboard (Power BI)
+
+An interactive HR analytics dashboard exploring workforce composition, attrition patterns, and employee demographics.
+
+The project demonstrates KPI design, HR data storytelling, and dashboard development using Power BI.
+
+**Preview**
+
+![Dashboard Overview](hr-analytics-dashboard/Images/HR_Analysis.png)
+
+**View project:**  
+[HR Analytics Dashboard](hr-analytics-dashboard)
+
 
 ---
 
